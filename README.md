@@ -1,2 +1,2 @@
-# Justi-a-e-Direito
+# Justica-e-Direito
 site jurídico
